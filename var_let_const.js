@@ -108,4 +108,4 @@ let c = 100;
 function cc() {
     var c = 10;
 }
-console.log(c);
+console.log("hello" ,c);
